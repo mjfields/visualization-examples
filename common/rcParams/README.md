@@ -3,6 +3,11 @@
 These dictate the basic styling of every figure I produce. 
 See the Matplotlib [documentation](https://matplotlib.org/stable/users/explain/customizing.html) for more information.
 
+At the beginning of every script:
+```
+import custom_rcparams.py
+```
+
 ## Why deviate from Matplotlib's default styling?
 
 - Increasing the size of text, lines, markers, ticks, etc. helps data and values stand out.
