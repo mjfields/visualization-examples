@@ -7,6 +7,7 @@
     <a href="../examples/sky-image/sky_image.png" target="_blank">
       <img src="../examples/sky-image/sky_image.png" alt="Sky Image" width="300"/>
     </a>
+    <br>
     <a href="../examples/sky-image/sky_image.py">View code</a>
   </div>
 
