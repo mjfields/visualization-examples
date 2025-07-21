@@ -19,9 +19,6 @@ Several highlights. See the full [gallery](gallery/index.md) for a comprehensive
     <a href="examples/sky-image/sky_image.png" target="_blank">
       <img src="examples/sky-image/sky_image.png" alt="Sky Image" width="300"/>
     </a>
-    <p>
-      A real image of the sky (in PS1 i-r-g color) with an overlay of target coordinates within Upper Scorpius and Ophiuchus.
-    </p>
     <a href="examples/sky-image/sky_image.py">View code</a>
   </div>
 
