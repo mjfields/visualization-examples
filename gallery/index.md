@@ -2,7 +2,7 @@
 
 <div style="display: flex; gap: 20px;">
 
-  <div style="width:300px; word-wrap:break-word;">
+  <div style="width:300px; box-sizing:border-box; overflow-wrap:break-word;">
     <h3>Sky Image with Overlay of Targets</h3>
     <a href="../examples/sky-image/sky_image.png" target="_blank">
       <img src="../examples/sky-image/sky_image.png" alt="Sky Image" width="300"/>
