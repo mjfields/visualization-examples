@@ -1,3 +1,15 @@
+"""
+This script downloads and plots a real sky image in PS1 i-r-g 
+color of a region within the Scorpius-Centaurus OB association.
+The image is overlaid with marker points indicating targets
+within the Upper Scorpius OB association and the Ophiuchus
+molecular cloud. The target coordinates exist in 
+'ra_dec_positions.txt'.
+
+The resulting figure is a reproduction of Fields et al. (in prep)
+Figure 1.
+"""
+
 import sys
 import os
 sys.path.append(
